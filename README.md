@@ -64,3 +64,5 @@ Total Items, Veg Items, Non-Veg Items, Avg Price | Item Count by Cuisine, Restau
 - Students and employees with no/lower income drive the highest order volumes
 - Restaurant presence is concentrated in a handful of cities, pointing to tier-1/tier-2 hub concentration
 
+## Power BI File
+Download the full working .pbix file: https://drive.google.com/file/d/1btaBlA2VzJOwJx_CZBbW8U2qWtgG484z/view?usp=drive_link
